@@ -5,6 +5,7 @@ body {
 }
 
 h1 {
+  font-size: 562.5%;
   margin-top: 0;
   font-size: 5rem;
 }
@@ -42,4 +43,9 @@ p {
   position: absolute;
   right: 500px;
   top: 100px;
+}
+
+#oversized {
+  width: 480px;
+  height: 360px;
 }
