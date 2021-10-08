@@ -34,7 +34,9 @@ p {
   padding-top: 200px;
 }
 
-.middle-container {}
+.middle-container {
+  margin: 100px 0;
+}
 
 .bottom-container {}
 
@@ -51,11 +53,15 @@ p {
 
 .pro {
   text-decoration: underline;
-  font-weight: normal;
+  font-weight: bold;
 }
 
 .name{
   color: #66BFBF;
+}
+
+.black{
+  color: #000000;
 }
 
 .bottom-cloud {
